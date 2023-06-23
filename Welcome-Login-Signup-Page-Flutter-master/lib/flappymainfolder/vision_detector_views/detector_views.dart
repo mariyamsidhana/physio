@@ -1,0 +1,1 @@
+export 'face_detector_view_flappy.dart';
